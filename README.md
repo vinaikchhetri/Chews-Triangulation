@@ -39,4 +39,5 @@ In the main function of Chews.cpp the point configurations can be easily modifie
 
 ## Additional Output for verifying Delaunay property
 
-After the rendering is closed, the terminal will show which vertices lie on (0) the boundary of the triangle and which ones lie outside (-1). 
+After the rendering is closed, the terminal will show which vertices lie on (0) the the circle passing throught the triangle vertices and which ones lie outside (-1). A small snapshot of the output corresponding to polygon 3 was taken. It shows that for a specific triangle, 2 points lie outside of the circle passing through vertices of triangle and the other 3 points of the polygon i.e. the triangle vertices themselves lie on the the circle.
+![verify](/img/verify.png?raw=true "verify")
