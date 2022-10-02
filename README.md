@@ -30,10 +30,12 @@ The file explorer is accessible using the button in left corner of the navigatio
 In the main function of Chews.cpp the point configurations can be easily modified.
 
 ## Output
-![Polygon1](img/polygon1)
+![Polygon1](/Chews-Triangulation/img/polygon1.png?raw=true "polygon1")
 ![Polygon2](img/polygon2)
 ![Polygon3](img/polygon3)
 ![Polygon4](img/polygon4)
+
+
 
 ## Additional Output for verifying Delaunay property
 
