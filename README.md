@@ -31,9 +31,9 @@ In the main function of Chews.cpp the point configurations can be easily modifie
 
 ## Output
 ![Polygon1](/img/polygon1.png?raw=true "polygon1")
-![Polygon2](img/polygon2)
-![Polygon3](img/polygon3)
-![Polygon4](img/polygon4)
+![Polygon2](/img/polygon2.png?raw=true "polygon2")
+![Polygon3](/img/polygon3.png?raw=true "polygon3")
+![Polygon4](/img/polygon4.png?raw=true "polygon4")
 
 
 
